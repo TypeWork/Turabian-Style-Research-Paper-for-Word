@@ -1,5 +1,5 @@
 # turabian-style-paper-dotm
-Microsoft Word template (.dotm) that provides a Chicago-style formatted research paper based on Turabian's A Manual for Writers (9th edition).
+Microsoft Word template (.dotm) that provides a Chicago-style formatted research paper based on Turabian's *A Manual for Writers* (9th edition).
 
 This work is distributed under the conditions of the GNU General Public License, version 3.0.
 
