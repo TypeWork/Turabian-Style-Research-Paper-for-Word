@@ -23,7 +23,7 @@ Headings are used to divide the main text into sections and subsections. The hea
 
 The `Heading 1 New Page` style is based on the `Heading 1` style but also provides: (1) a page break before the section heading; and (2) additional spacing after the heading. This style is useful for specific section headings such as *Introduction*, *Appendix*, and *Bibliography*.
 
-### Additional Paragraph Styles
+### Helpful Paragraph Styles
 
 `Quotation Block` is for typesetting block quotations. Text uses "single-space" and leaves "a blank line before and after it." The entire block quotation is indented 0.5 inches from the left margin (361).
 
@@ -41,7 +41,7 @@ The `Heading 1 New Page` style is based on the `Heading 1` style but also provid
 
 When endnotes are set to "End of section," inserting a section break before the Bibliography or References list will allow the Notes to be placed *before* the Bibliography or References list. If endnotes are being used for source citations, and footnotes for "substantive comments," footnote references need to be, instead, labelled using "symbols". Footnote references are then restarted on each page (161).
 
-Although the reference number within the text of each note is preferably "formatted as regular text" followed by a period and space, Turabian’s manual allows for notes to use superscript (without the following period) provided that "local guidelines allow it" (162).
+Although the reference number within the text of each note is preferably "formatted as regular text" followed by a period and space, Turabian’s manual allows for notes to use superscript (without the following period) provided that "local guidelines allow it" (162). For an automated way to accomplish this "preferable" format (notes without superscript), see the [`ChicagoNotesFormatting`](https://github.com/TypeWork/chicago-notes-formatting) VBA macro.
 
 ### References
 
