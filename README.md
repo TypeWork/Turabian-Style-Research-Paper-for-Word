@@ -39,7 +39,7 @@ The `Heading 1 New Page` style is based on the `Heading 1` style but also provid
 
 ### A Note on Footnotes and Endnotes
 
-When endnotes are set to "End of section," inserting a section break before the Bibliography or References list will allow the Notes to be placed *before* the Bibliography or References list. If endnotes are being used for source citations, and footnotes for "substantive comments," footnote references need to be, instead, labelled using symbols in the sequence: * † ‡ §. Footnote references are then restarted on each page (161).
+When endnotes are set to "End of section," inserting a section break before the Bibliography or References list will allow the Notes to be placed *before* the Bibliography or References list. If endnotes are being used for source citations, and footnotes for "substantive comments," footnote references need to be, instead, labelled using "symbols". Footnote references are then restarted on each page (161).
 
 Although the reference number within the text of each note is preferably "formatted as regular text" followed by a period and space, Turabian’s manual allows for notes to use superscript (without the following period) provided that "local guidelines allow it" (162).
 
