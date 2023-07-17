@@ -1,4 +1,4 @@
-# Turabian Style Paper.dotm
+# Turabian Style Research Paper for Word (.dotm)
 
 This Microsoft Word template (.dotm) provides a research paper formatted based on the 9th edition of Kate L. Turabian’s *A Manual for Writers of Research Papers, Theses, and Dissertations: Chicago Style for Students and Researchers*.
 
@@ -56,7 +56,7 @@ This template can also be placed in the user's `Templates` folder.
 
 ## License
 
-Copyright (C) 2018   Omar Abdool
+Copyright (C) 2023   Omar Abdool
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
